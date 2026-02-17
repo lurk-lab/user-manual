@@ -5,7 +5,7 @@
 Clone the [lurk](https://github.com/argumentcomputer/lurk) repository and run the following command inside its folder:
 
 ```
-$ cargo install --path .
+$ cargo install --locked --path .
 ```
 
 This will make the `lurk` binary globally accessible from your terminal:
